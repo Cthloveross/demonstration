@@ -1,3 +1,5 @@
 public class demonstration{
-//vscode
+    public static int multiple(int a, int b){
+        return a*b;
+    }
 }
